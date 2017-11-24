@@ -2,3 +2,4 @@
 
 #made by José Crisanto
 #IDE dev c ++
+#para windows
